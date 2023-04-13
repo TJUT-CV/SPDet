@@ -1,0 +1,21 @@
+# TODO: Update with exact module version
+numpy
+opencv_python
+loguru
+scikit-image
+cython==0.29.32
+tqdm
+Pillow
+thop
+ninja
+tabulate
+tensorboard
+lap
+motmetrics
+filterpy
+h5py
+faiss-cpu
+pyyaml
+yacs
+termcolor
+scikit-learn

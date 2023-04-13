@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python tools/demo_spdet.py --path /data2/zzb/data/PANDA/PANDA-Image/image_test/14_OCT_Habour/ --fp16 --fuse --exp_file exps/example/mot/yolox_s_mix_det.py  --ckpt pretrained/bytetrack_s_mot17.pth.tar --save_result
